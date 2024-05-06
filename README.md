@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi There 👋
+## Welcome To DesignToCodes 
 
 <!--
-**DesignTocodes/DesignToCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Here are some ideas to get you started:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+<a href="https://github.com/DesignToCodes">
+    <img src="https://komarev.com/ghpvc/?username=DesignToCodes&style=for-the-badge">
+</a>
